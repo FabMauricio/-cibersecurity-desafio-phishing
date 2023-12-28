@@ -26,7 +26,24 @@ inclusive no modo via cabo conectado e wifi...
 
 desinstalei a VM e reinstalei novamente....
 
-e repeti os passos da linha 13...  sudo su --- senha --- setooltik --- 1  --- 2 --- 3 --- 2 ---- verificado ip da maquina (10.0.0.5) ---- digitado: http://www.facebook.com
+e repeti os passos da linha 13...  sudo su --- senha --- setooltik --- 1  --- 2 --- 3 --- 2 ---- verificado ip da maquina (10.0.0.6) ---- digitado: http://www.facebook.com
+
+ao executar o ip no navegador o terminal kali reconheceu o ip 10.0.0.7
+
+e novamente a botao entrar nao funcionou
+
+e o kali nao encontrou o logim e a senha...
+
+![image](https://github.com/FabMauricio/-cibersecurity-desafio-phishing/assets/153826437/966b9bd8-b0ef-4835-8f36-b7cba8a3dc29)
+
+![image](https://github.com/FabMauricio/-cibersecurity-desafio-phishing/assets/153826437/f7208619-4e16-4143-ac70-bddb02f14a64)
+
+![image](https://github.com/FabMauricio/-cibersecurity-desafio-phishing/assets/153826437/87179eaa-599d-4dd5-a754-f6ae14956e0d)
+
+
+
+
+
 
 
 
