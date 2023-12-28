@@ -26,6 +26,8 @@ inclusive no modo via cabo conectado e wifi...
 
 desinstalei a VM e reinstalei novamente....
 
-e repeti os passos da linha 13...
+e repeti os passos da linha 13...  sudo su --- senha --- setooltik --- 1  --- 2 --- 3 --- 2 ---- verificado ip da maquina (10.0.0.5) ---- digitado: http://www.facebook.com
+
+
 
 
